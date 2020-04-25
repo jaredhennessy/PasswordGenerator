@@ -1,4 +1,4 @@
-# JavaScript Password Generator
+# [JavaScript Password Generator](https://jaredhennessy.github.io/PasswordGenerator/)
 
 1.  Once the user clicks "Generate Password" buttonin the provided html, a prompt box asks them to provide the length of their desired password.
     The password length is checked for the following potential issues:
